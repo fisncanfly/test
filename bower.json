@@ -1,5 +1,5 @@
 {
-  "name": "hzr/test",
+  "name": "hzrtest",
   "description": "",
   "main": "",
   "license": "MIT",
@@ -10,5 +10,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
 }
